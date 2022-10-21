@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Standard
 
 [Preferences]
 PrefsVaultGUID=
@@ -94,7 +95,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -111,7 +112,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -128,7 +129,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -145,7 +146,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -162,7 +163,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -171,6 +172,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVQRWIII
+
+[ProjectVariant1]
+UniqueID=B6B887CA-C921-4EB3-AB55-CB1C1BEBE24F
+Description=Standard
+AllowFabrication=0
+ParameterCount=0
+VariationCount=13
+Variation1=Designator=IC30|UniqueId=\KQVTHGTL\ZNVXOMTS|Kind=1|AlternatePart= 
+Variation2=Designator=R19|UniqueId=\KQVTHGTL\EEODZXUI|Kind=1|AlternatePart= 
+Variation3=Designator=R20|UniqueId=\KQVTHGTL\ROMKZXQT|Kind=1|AlternatePart= 
+Variation4=Designator=R21|UniqueId=\KQVTHGTL\JGLSVMMH|Kind=1|AlternatePart= 
+Variation5=Designator=R22|UniqueId=\KQVTHGTL\QXOOKKJJ|Kind=1|AlternatePart= 
+Variation6=Designator=R24|UniqueId=\KQVTHGTL\BJDYDCIW|Kind=1|AlternatePart= 
+Variation7=Designator=R23|UniqueId=\KQVTHGTL\RFZSCKXP|Kind=1|AlternatePart= 
+Variation8=Designator=C92|UniqueId=\KQVTHGTL\NTHKXCHY|Kind=1|AlternatePart= 
+Variation9=Designator=C94|UniqueId=\KQVTHGTL\GUHBDNSW|Kind=1|AlternatePart= 
+Variation10=Designator=C93|UniqueId=\KQVTHGTL\YFBMUURK|Kind=1|AlternatePart= 
+Variation11=Designator=IC34|UniqueId=\KQVTHGTL\ZRMRWAFS|Kind=1|AlternatePart= 
+Variation12=Designator=IC38|UniqueId=\KQVTHGTL\VFBIBFHF|Kind=1|AlternatePart= 
+Variation13=Designator=IC39|UniqueId=\KQVTHGTL\RAKHDJSU|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for GEM_AFE_128\Design Rule Check - GEM_AFE_128.html
