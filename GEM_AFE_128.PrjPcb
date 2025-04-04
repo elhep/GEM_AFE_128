@@ -178,7 +178,7 @@ UniqueID=B6B887CA-C921-4EB3-AB55-CB1C1BEBE24F
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=13
+VariationCount=14
 Variation1=Designator=IC30|UniqueId=\KQVTHGTL\ZNVXOMTS|Kind=1|AlternatePart= 
 Variation2=Designator=R19|UniqueId=\KQVTHGTL\EEODZXUI|Kind=1|AlternatePart= 
 Variation3=Designator=R20|UniqueId=\KQVTHGTL\ROMKZXQT|Kind=1|AlternatePart= 
@@ -192,6 +192,7 @@ Variation10=Designator=C93|UniqueId=\KQVTHGTL\YFBMUURK|Kind=1|AlternatePart=
 Variation11=Designator=IC34|UniqueId=\KQVTHGTL\ZRMRWAFS|Kind=1|AlternatePart= 
 Variation12=Designator=IC38|UniqueId=\KQVTHGTL\VFBIBFHF|Kind=1|AlternatePart= 
 Variation13=Designator=IC39|UniqueId=\KQVTHGTL\RAKHDJSU|Kind=1|AlternatePart= 
+Variation14=Designator=R31|UniqueId=\LKPZDJBI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
